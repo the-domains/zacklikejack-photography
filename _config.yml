@@ -4,7 +4,8 @@ content_rating:
   adult: false
 github: true
 opengraph: {}
-author: {}
+author:
+  url: 'http://zacklikejack.com'
 color:
   lightness: 0.5613265702410896
   brandColors:
