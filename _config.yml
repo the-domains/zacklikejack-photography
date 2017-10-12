@@ -40,7 +40,6 @@ content:
       keywords:
         - ''
       description: Uploaded by None on 2017-10-03.
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links:
         - url: >-
@@ -96,5 +95,5 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 url: 'http://packzarker.photography/'
-title: pack.zarker.photography
+title: zack like jack photography
 description: ''
